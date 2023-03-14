@@ -1,0 +1,14 @@
+.firstseg{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    flex-direction: column;
+    margin-top: 90px;
+    
+   
+}
+button{
+    width: 100px;
+    display: flex;
+}
+

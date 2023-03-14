@@ -1,0 +1,23 @@
+.container-fluid{
+  background: #533479f2;  /* fallback for old browsers */
+  text-align: center;
+  width: 100wh;
+  height: 800px;
+}
+
+h2{
+  font-family: 'Merriweather', serif;
+  
+  color: white !important;
+  text-align: center;
+  font-size: 45px !important;
+  padding-top: 10px !important;
+  
+}
+.divider{
+  width: 300px;
+  height: 3px;
+  background-color: rgb(224, 216, 59);
+  display: inline-block;
+  
+}

@@ -1,0 +1,43 @@
+
+.form{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 5px;
+}
+.row{
+    padding-top: 20px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.form-group{
+    width: 80% !important;
+    padding-top: 30px;
+}
+button{
+    width: 10% !important;
+    height: 40px;
+    margin-top: 35px !important;
+    border-radius: 10px !important;
+    background-color: rgb(224, 216, 59);
+    margin-left: 10px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid green;
+    
+}
+label{
+    color: white;
+    padding-bottom: 10px;
+    font-size: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+option{
+    color: black;
+}
+@media screen and (min-width:500px) {
+    
+}
